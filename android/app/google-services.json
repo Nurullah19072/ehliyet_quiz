@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220461510810",
+    "project_id": "mobil-80f96",
+    "storage_bucket": "mobil-80f96.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220461510810:android:23490058b14dc2adff6f23",
+        "android_client_info": {
+          "package_name": "com.example.mobilodev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChEljOn7z4Frl0RAeQnSpR9wcgY8Q0ZHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
